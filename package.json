@@ -1,1 +1,15 @@
-
+{
+  "name": "Get Title",
+  "version": "1.0.0",
+  "description": "指定されたURLからタイトル、ファビコンを取得します。",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
